@@ -1,1 +1,1 @@
-# Diagn-stico_RappiPlus
+# Diagnóstico_RappiPlus
